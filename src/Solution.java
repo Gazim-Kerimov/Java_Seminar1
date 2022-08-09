@@ -21,6 +21,7 @@ public class Solution {
                 System.out.println("Введено некорретное значение, попробуйте снова: ");
             }
         }
+        reader.close();
 
 
     }
